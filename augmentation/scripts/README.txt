@@ -1,1 +1,0 @@
-Change the augment_data.sh file with your own $SBATCH parameters.

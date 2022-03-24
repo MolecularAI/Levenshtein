@@ -1,0 +1,12 @@
+name: levensthein_augment_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - rdkit=>2019.09.1
+  - numpy
+  - pandas
+  - pip>=20.0
+  - configobj
+  - pip:
+    - Levenshtein
