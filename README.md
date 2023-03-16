@@ -1,3 +1,5 @@
+**Please note: this repository is no longer being maintained.**
+
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![status:archived](https://img.shields.io/badge/Status-Archived-lightgrey)
